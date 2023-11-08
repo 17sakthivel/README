@@ -368,6 +368,7 @@ sns.scatterplot(x,np.log(y))
 sns.regplot(x,np.log(y))
 sns.regplot(x,np.log(y))
 sns.regplot(x,np.log(y))
+![image](https://github.com/17sakthivel/README/assets/146808765/6506eb19-52e4-4bc9-9a11-01d79b846c7f)
 
 
 
@@ -427,7 +428,7 @@ sns.regplot(x,np.log(y))
 This project was a collaborative effort involving the following team members and contributors:
 
 **Sample**
-
+![image](https://github.com/17sakthivel/README/assets/146808765/130918d3-9cde-4bb3-83c1-27233406adac)
 
 
 
