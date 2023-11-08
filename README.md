@@ -1,3 +1,5 @@
+
+**Foreign Policy Implications:**
 # Data Analytics with Cognos - Group 3(Covid-19 Case Analysis)
 
 The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, has had a profound and far-reaching impact on the world since its emergence in late 2019. Understanding and analyzing COVID-19 cases is essential for both public health authorities and researchers to monitor the spread of the virus, assess its impact on communities, and develop effective strategies to mitigate its effects.COVID-19 case analysis involves examining various aspects of the pandemic, such as the number of confirmed cases, testing rates, demographics of those affected, geographic spread, severity of illness, healthcare system capacity, and vaccination rates. This data analysis is crucial for identifying trends, making informed decisions, and planning responses to control the virus. In this context, we will explore different dimensions of COVID-19 case analysis, including the epidemiological, social, and economic factors, as well as the public health interventions and policies implemented to combat the pandemic. This analysis will provide insights into how the pandemic has evolved, its impact on healthcare systems, and the challenges and lessons learned throughout its course.The ongoing COVID-19 pandemic has highlighted the importance of robust data collection and analysis in guiding public health responses, vaccine distribution, and containment strategies. By examining COVID-19 cases in detail, we can better understand the dynamics of the virus and work towards minimizing its impact on society.
@@ -150,8 +152,6 @@ Implementing a universal healthcare policy can have implications on access to he
 **Data Protection Laws:** Policies such as the General Data Protection Regulation (GDPR) have implications for businesses, consumer privacy, and data handling practices.
 
 **Net Neutrality:** Regulations governing net neutrality have implications for internet access, competition, and content delivery.
-
-**Foreign Policy Implications:**
 
 **Trade Agreements:** International trade policies can have implications on job markets, economic growth, and diplomatic relations.
 Humanitarian Interventions: Foreign policy decisions regarding humanitarian interventions can have implications for global stability, human rights, and international cooperation.
@@ -436,11 +436,11 @@ This project was a collaborative effort involving the following team members and
 
 This project was a collaborative effort involving the following team members and contributors:
 
-- **[Mohamed jafar S]** - Project Lead and Data Analyst
-- **[Saravanan S ]** - Data Collection and Preprocessing
-- **[Sanjay Domic L]** - Data Visualization and Report Writing
-- **[Krishnakkumar E]** - Qualitative Data Analysis
--  **[MOhamed Rifan B]** - Quality  Analysis
+- **[sakthivel N]** - Project Lead and Data Analyst
+- **[pradeepkumar P ]** - Data Collection and Preprocessing
+- **[prabanjan G]** - Data Visualization and Report Writing
+- **[manoj S]** - Qualitative Data Analysis
+-  **[sabarinathan K]** - Quality  Analysis
   
 We would like to extend our gratitude to all team members and contributors for their valuable contributions to the successful completion of this project. Their expertise and dedication were instrumental in delivering meaningful insights into product sales
 
